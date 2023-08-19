@@ -9,7 +9,6 @@ Pooch.create!([{
     age: 4,
     keywords: "Toy Poodle, Female, Spayed, Beige/Cream, Brooklyn NY",
     description: "Luna Bell is a Toy Poodle who enjoys cuddles and rubs. She is a sweet soul.",
-    image: '/app/assets/images/luna.jpg'
   },
   {
     name: "Goon",
